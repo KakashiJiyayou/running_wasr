@@ -9,5 +9,5 @@ I would like to acknowledge the authors of the [WASR Network repository](https:/
 ## Changes Made
 
 - Updated Python version to 2.X
-- Updated TensorFlow version to 2.X
+- Updated TensorFlow version to 3.X
 - Additional modifications and improvements
